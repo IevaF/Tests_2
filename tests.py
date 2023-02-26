@@ -1,3 +1,5 @@
+# labojums
+# vēl viens komentārs
 '''def name(john):
     return f"Hi {name}"
 print(name)
@@ -28,7 +30,3 @@ print(txt.format(Username))'''
 
 val=20+10
 print(val)
-
-# comment
-# comment
-
