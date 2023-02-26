@@ -4,6 +4,8 @@ lorem ipsum 10
 
 Kaut kādas izmaiņas
 
+Kāpēc vajag pull, ja sourcetree var uzreiz pievienot izmaiņas
+
 
 
 
